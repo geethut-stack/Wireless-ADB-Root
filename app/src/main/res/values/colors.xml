@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4D6BFE</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="active">#2E7D32</color>
+    <color name="inactive">#C62828</color>
+    <color name="widget_on">#2E7D32</color>
+    <color name="widget_off">#4D6BFE</color>
+</resources>
