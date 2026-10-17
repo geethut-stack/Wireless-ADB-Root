@@ -49,15 +49,15 @@ This app wraps exactly that in a clean UI and a widget, and nothing else. No ana
 
 ### From a release (recommended)
 
-1. Grab the latest `app-debug.apk` from the [**Releases**](https://../releases) page.
+1. Grab the latest `app-debug.apk` from the [**Releases**](./releases) page.
 2. Enable **Install unknown apps** for your browser/file manager if prompted.
 3. Install, open, grant root when asked.
 
 ### Build from source
 
 ```
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/geethut-stack/Wireless-ADB-Root.git
+cd Wireless-ADB-Root
 ```
 
 Open the folder in **Android Studio**, let Gradle sync (it downloads Gradle 8.9 and any missing SDK bits automatically), then hit **Run ▶**.
