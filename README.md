@@ -49,7 +49,7 @@ This app wraps exactly that in a clean UI and a widget, and nothing else. No ana
 
 ### From a release (recommended)
 
-1. Grab the latest `app-debug.apk` from the releases page.
+1. Grab the latest `app-debug.apk` from the [Releases](../../releases) page.
 2. Enable **Install unknown apps** for your browser/file manager if prompted.
 3. Install, open, grant root when asked.
 
