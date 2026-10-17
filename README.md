@@ -33,11 +33,8 @@ This app wraps exactly that in a clean UI and a widget, and nothing else. No ana
 - **Zero fluff** — no ads, no analytics, ~5 Kotlin files
 
 ## Screenshots
-<!-- Drop your screenshots in a /screenshots folder and reference them here -->
+<img width="1570" height="1611" alt="f1e6415ef8d737c402a4f88dd838287d" src="https://github.com/user-attachments/assets/6439a08b-4faa-4af5-bfae-d31d50e67283" />
 
-| Main screen | Widget (compact) | Widget (expanded) |
-|---|---|---|
-| *coming soon* | *coming soon* | *coming soon* |
 
 ## Requirements
 
